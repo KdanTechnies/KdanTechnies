@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Kalu Onuka Daniel 👋
 
-<!--
-**KdanTechnies/KdanTechnies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer learning full-stack development | also a Graphics Designer | Product Designer.
 
-Here are some ideas to get you started:
+## 🚀 What I’m Working On
+- 🔭 Building a personal portfolio site with React
+- 🤖 Exploring AI projects using Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- HTML, CSS, JavaScript, React
+- Python, Django
+- Git & GitHub
+- Photoshop and Canva | Corel draw | Matrix
+
+## 📬 Connect with Me
+- 📧 Email: danielfrosh22@email.com
+- 💼 [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/kaluonukadaniel133)
+- 🌐 [Portfolio Website]([https://yourwebsite.com](https://portfolio-onuka.vercel.app/))
+
+## 📌 Featured Projects
+- [BMI Calculator (Python)](https://github.com/yourusername/bmi-calculator)
+- [Quiz App](https://github.com/yourusername/quiz-app)
+- [Temperature Checker](https://github.com/yourusername/Temp-app)
