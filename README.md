@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Kal Onuka Daniel]!
+# 👋 Hi there, I'm [Kalu Onuka Daniel]!
 
 Welcome to my GitHub profile. I'm a passionate developer who enjoys building web and software projects with clean design and useful functionality.
 
