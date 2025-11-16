@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[YOUR_BANNER_LINK_HERE](https://raw.githubusercontent.com/KdanTechnies/KdanTechnies/refs/heads/main/Kalu%20Onuka%20Daniel%20(2).png)" alt="KdanTechnies GitHub Banner" />
+</p>
+
 # 👋 Hi there, I'm [Kalu Onuka Daniel]!
 
 Welcome to my GitHub profile. I’m a Zealous	developer who builds clean, functional, and visually appealing digital experiences.  
