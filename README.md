@@ -1,7 +1,8 @@
 # 👋 Hi there, I'm [Kalu Onuka Daniel]!
 
-Welcome to my GitHub profile. I'm a passionate developer who enjoys building web and software projects with clean design and useful functionality.
-
+Welcome to my GitHub profile. I’m a Zealous	developer who builds clean, functional, and visually appealing digital experiences.  
+I combine **solid engineering** with **creative design**, giving me the ability to develop full solutions  
+—from backend systems and APIs to beautiful interfaces and brand visuals.
 ---
 
 ## 💼 About Me
@@ -16,21 +17,43 @@ Welcome to my GitHub profile. I'm a passionate developer who enjoys building web
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages & Markup:**
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+### **Frontend**
+- HTML5 • CSS3 • JavaScript  
+- React.js • TailwindCSS  
+- UI/UX & Responsive Design
 
-**Frameworks & Tools:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)  
+### **Backend**
+- Node.js • Express  
+- Python • FastAPI  
+- REST APIs  
+- Authentication (JWT, Sessions)
+
+### **Database**
+- PostgreSQL • MySQL • SQLite  
+- SQLAlchemy • Prisma ORM
+
+### **Tools**
+- Git • GitHub  
+- Figma • Adobe Photoshop  
+- Docker (Basics)
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KdanTechnies&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KdanTechnies&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KdanTechnies&layout=compact&theme=transparent" />
+</p>
 
 
 ## 🏅 Certifications
@@ -47,15 +70,18 @@ Welcome to my GitHub profile. I'm a passionate developer who enjoys building web
 - ✨ Launch a full-stack project using Django + React
 
 
-## 🔥 Projects
 
-Here are some of my highlighted works:
+## 🔥 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [BMI Calculator](https://github.com/KdanTechnies/bmi-calculator) | Simple Python script to calculate BMI with health advice | Python |
-| [Quiz App](https://github.com/KdanTechnies/quiz-app) | Terminal-based quiz that tracks and scores user answers | Python |
-| [React Portfolio]([https://github.com/yourusername/react-portfolio](https://portfolio-onuka.vercel.app/)) | Personal portfolio site made with React | React, CSS |
+### 🎨 **Portfolio Website**
+A modern personal website showcasing my skills, projects, and designs.
+
+### 🧩 **Full-Stack Applications**
+Clean backend logic, RESTful APIs, and scalable architecture.
+
+### 🖼️ **Graphics & UI/UX Designs**
+Logos, brand kits, product visuals, and interface designs.
+
 
 ---
 
@@ -67,18 +93,16 @@ Here are some of my highlighted works:
 - ✈️ Dream: Travel to a tech conference abroad
 
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?KdanTechnies&show_icons=true&theme=radical)
-
 ---
 
 ## 📬 Let's Connect
 
 [![LinkedIn](www.linkedin.com/in/kaluonukadaniel133)  
 [![Facebook](www.facebook.com/in/KaluOnukaDaniel)
+- **Email:** danielfrosh22@gmail.com 
 
 ---
 
 
-_Thanks for visiting my profile! Feel free to explore my projects, follow, or reach out if you'd like to collaborate. 😊_
+## 🙌 Thanks for visiting my GitHub profile!
+Feel free to explore my projects or reach out for collaboration!😊_
