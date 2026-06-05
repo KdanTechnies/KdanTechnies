@@ -31,15 +31,24 @@ I'm not a specialist who only touches one layer of the stack. I understand how t
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KdanTechnies&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KdanTechnies&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KdanTechnies&theme=transparent&hide_border=true" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KdanTechnies&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KdanTechnies&theme=transparent&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KdanTechnies&theme=github-compact&hide_border=true" />
+</p>
 ---
 
 ## Certifications
