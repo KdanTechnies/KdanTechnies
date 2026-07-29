@@ -26,6 +26,9 @@ I'm not a specialist who only touches one layer of the stack. I understand how t
 **Tools & Design**
 `Git` `GitHub` `Figma` `Adobe Photoshop` `Corel Draw`
 
+⚙️ DevOps: CI/CD, Docker, Vercel, Render, Netlify, GitHub Actions
+🔒 Security-first: Authentication (OAuth, JWT), OWASP best practices
+
 ---
 
 ## GitHub Stats
