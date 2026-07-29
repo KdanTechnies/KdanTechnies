@@ -1,14 +1,47 @@
 # Hey, I'm Kalu Onuka Daniel 👋
 
-I'm a Full Stack Developer and Graphics Designer based in Africa. I build things end-to-end from database schemas and REST APIs to the interfaces people actually interact with. I care about clean architecture on the backend and intentional design on the frontend. When something looks good *and* works well, that's the sweet spot I'm always aiming for.
+I'm a **Full Stack Developer and Graphics Designer** based in Africa. I build web applications from the backend up, working with **Python, FastAPI, React, Next.js, TypeScript, PostgreSQL, and REST APIs**.
+
+Most of my work involves building backend services, designing APIs, working with databases, handling authentication, connecting third-party services, and building the frontend that consumes those APIs. I also have a background in graphics and UI design, so I can work on both the technical side of an application and how the final product looks and feels.
 
 ---
 
 ## What I Do
 
-I write backend services with **FastAPI** and **PostgreSQL**, build frontend experiences with **Next.js**, **TypeScript**, and **Tailwind CSS**, and occasionally jump into **Vue.js** when the project calls for it. On the design side, I work in **Figma** and **Photoshop**, and **Corel-Draw** - brand kits, UI mockups, product visuals.
+### Backend Development
 
-I'm not a specialist who only touches one layer of the stack. I understand how the pieces connect, which means I can own a feature from API design to the final pixel.
+I use **Python and FastAPI** to build backend applications and REST APIs. I work with API routing, request validation, authentication, authorization, database operations, error handling, environment variables, and API documentation.
+
+I also work with **SQLAlchemy, PostgreSQL, MongoDB, and Prisma** depending on the project.
+
+### Frontend Development
+
+For frontend development, I mainly use **React and Next.js with TypeScript**. I build reusable components, responsive pages, forms, dashboards, authentication interfaces, API integrations, and application layouts using **Tailwind CSS**.
+
+### Full Stack Development
+
+I enjoy working on projects where the frontend and backend need to work together properly. I can take a feature from the database and API layer through to the frontend and connect the different parts of the application.
+
+Some of the things I work with include:
+
+* REST API development
+* User registration and login
+* JWT authentication
+* OAuth
+* Role-based access control
+* Database design
+* CRUD operations
+* API integration
+* File uploads
+* Email services
+* Payment integrations
+* Admin dashboards
+* Third-party APIs
+* Deployment and environment configuration
+
+### Graphics & UI Design
+
+Before getting deep into software development, I worked extensively with graphics and visual design. I still use **Figma, Canva, Adobe Photoshop, and Corel Draw** for UI designs, graphics, branding, marketing materials, and product visuals.
 
 ---
 
@@ -16,27 +49,27 @@ I'm not a specialist who only touches one layer of the stack. I understand how t
 
 ### Frontend
 
-`Next.js` `React` `TypeScript` `JavaScript` `Tailwind CSS` `HTML5` `CSS3`
+`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `HTML5` `CSS3`
 
 ### Backend
 
-`Python` `FastAPI` `REST APIs` `JWT Auth`
+`Python` `FastAPI` `REST APIs` `JWT` `OAuth`
 
-### Database
+### Databases & ORM
 
-`PostgreSQL` `MongoDB` `Prisma ORM` `SQLAlchemy`
+`PostgreSQL` `MongoDB` `SQLAlchemy` `Prisma ORM`
 
-### Tools & Design
+### DevOps & Deployment
 
-`Git` `GitHub` `Canva` `Adobe Photoshop` `Corel Draw`
+`Docker` `GitHub Actions` `CI/CD` `Vercel` `Render` `Netlify`
 
-### ⚙️ DevOps
+### Development Tools
 
-`CI/CD` `Docker` `Vercel` `Render` `Netlify` `GitHub Actions`
+`Git` `GitHub` `Postman` `VS Code`
 
-### 🔒 Security-first
+### Design
 
-`Authentication (OAuth, JWT)` `OWASP best practices`
+`Figma` `Canva` `Adobe Photoshop` `Corel Draw`
 
 ---
 
@@ -77,25 +110,29 @@ I'm not a specialist who only touches one layer of the stack. I understand how t
 
 ## What I'm Working On
 
-* Sharpening my Next.js + FastAPI fullstack workflow
-* Contributing to open-source Python tooling
-* Building and shipping real products, not just practice projects for different organizations in Europe.
+* Improving my **Next.js + FastAPI** full-stack workflow
+* Building backend systems with **Python and FastAPI**
+* Working on full-stack applications using **React, Next.js, PostgreSQL, and REST APIs**
+* Contributing to open-source Python projects
+* Building and shipping real products for clients and organisations in Europe
+* Learning more about system design, cloud infrastructure, and application deployment
 
 ---
 
 ## A Few Things About Me
 
-* I enjoy logic puzzles - debugging scratches the same itch
-* Music is always on when I'm coding - Hip-Hop, rap, whatever fits the mood
-* I read documentation for fun. Yes, really.
-* Scrabble game player. Retro game appreciator.
-* I've attended 5 tech conferences across South Africa and Nigeria - always looking for the next one
+* I enjoy solving logic puzzles. Debugging gives me the same kind of satisfaction.
+* I usually have music playing while I code mostly Hip-Hop and Rap.
+* I actually enjoy reading documentation when I'm working with a new technology.
+* I play Scrabble and enjoy retro games.
+* I've attended **5 tech conferences across South Africa and Nigeria**, and I'm always interested in attending the next one.
+* I like taking an idea and turning it into something that people can actually use.
 
 ---
 
 ## Let's Connect
 
-I'm open to freelance work, collaborations, and interesting conversations.
+I'm open to **freelance projects, software engineering opportunities, collaborations, and interesting technical conversations**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalu%20Onuka%20Daniel-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kaluonukadaniel-dev)
 
