@@ -16,7 +16,7 @@ I'm not a specialist who only touches one layer of the stack. I understand how t
 
 ### Frontend
 
-`Next.js` `Vue.js` `TypeScript` `JavaScript` `Tailwind CSS` `HTML5` `CSS3`
+`Next.js` `React` `TypeScript` `JavaScript` `Tailwind CSS` `HTML5` `CSS3`
 
 ### Backend
 
@@ -24,11 +24,11 @@ I'm not a specialist who only touches one layer of the stack. I understand how t
 
 ### Database
 
-`PostgreSQL` `SQLite` `Prisma ORM` `SQLAlchemy`
+`PostgreSQL` `MongoDB` `Prisma ORM` `SQLAlchemy`
 
 ### Tools & Design
 
-`Git` `GitHub` `Figma` `Adobe Photoshop` `Corel Draw`
+`Git` `GitHub` `Canva` `Adobe Photoshop` `Corel Draw`
 
 ### ⚙️ DevOps
 
