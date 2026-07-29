@@ -1,4 +1,4 @@
-# Hey, I'm Kalu Onuka Daniel 👋
+# Hey, I'm Kalu Onuka Daniel 
 
 I'm a **Full Stack Developer and Graphics Designer** based in Africa. I build web applications from the backend up, working with **Python, FastAPI, React, Next.js, TypeScript, PostgreSQL, and REST APIs**.
 
